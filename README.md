@@ -8,5 +8,5 @@
   6. Set SCM to **Git**.
   7. In Repository URL, enter `https://github.com/janokular/jenkins-pipelines.git`.
   8. Set Branch Specifier to `*/main`.
-  9. Set Script Path to the path of the `Jenkinsfile` you want to use; `LOCATION/INSIDE/THIS/REPO/Jenkinsfile` if it’s in a subfolder.
+  9. Set Script Path to the path of the `path/inside/this/repo/Jenkinsfile` you want to use.
   10. Click **Save**, then select **Build Now** to run the pipeline.
